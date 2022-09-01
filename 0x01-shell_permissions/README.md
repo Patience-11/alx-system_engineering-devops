@@ -1,1 +1,1 @@
-make betty superuser
+Make betty superuser
